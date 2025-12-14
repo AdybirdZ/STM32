@@ -1,0 +1,90 @@
+# IDE and Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Keil MDK files
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.d
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.obj
+*.iex
+JLinkLog.txt
+JLinkSettings.ini
+
+# IAR EWARM files
+*.ewt
+*.dbgdt
+*.dni
+*.wsdt
+*.xcl
+Debug/
+Release/
+
+# STM32CubeIDE / Eclipse files
+.settings/
+Debug/
+Release/
+.metadata/
+*.launch
+
+# Build directories
+build/
+Build/
+BUILD/
+target/
+out/
+
+# Hex and binary files (optional, uncomment if you don't want to track them)
+# *.hex
+# *.bin
+# *.elf
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Libraries (uncomment if you want to exclude library files)
+# Drivers/
+# Middlewares/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux files
+*~
+
+# Python files (if using Python scripts)
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Documentation build files
+*.pdf
+*.aux
+*.out
